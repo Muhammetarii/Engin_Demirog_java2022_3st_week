@@ -1,0 +1,16 @@
+package javaApp;
+
+public class CreditManager {
+	
+	public void calculate() {//Method(operasyon-fonksiyon) 
+		System.out.println("Hesaplandı");
+		
+	}
+	
+	public void save() {//Method(operasyon-fonksiyon) 
+		System.out.println("Kredi verildi");
+		
+	}
+	
+
+}

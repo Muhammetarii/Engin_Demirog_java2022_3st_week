@@ -1,0 +1,15 @@
+package javaApp;
+
+public class CustomerManager {
+	private Customer customer
+	
+	public CustomerManager(Customer customer) {
+		
+	}
+	
+	public void save(Customer customer) {
+		System.out.println("Müşteri kaydedildi");
+		
+	}
+
+}

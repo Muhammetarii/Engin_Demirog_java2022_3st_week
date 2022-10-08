@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\java2022\3.hafta\odev1\.metadata\.plugins\org.eclipse.jdt.core
+1890557056.index
+1865797976.index
+4263233050.index

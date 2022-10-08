@@ -1,0 +1,8 @@
+package javaApp;
+
+public class CustomerManager {
+	public void save() {
+		
+	}
+
+}

@@ -1,0 +1,7 @@
+C:\java2022\3.hafta\odev1\YoutubeEgitimDemo\YoutubeEgitimDemo\bin\Debug\YoutubeEgitimDemo.exe.config
+C:\java2022\3.hafta\odev1\YoutubeEgitimDemo\YoutubeEgitimDemo\bin\Debug\YoutubeEgitimDemo.exe
+C:\java2022\3.hafta\odev1\YoutubeEgitimDemo\YoutubeEgitimDemo\bin\Debug\YoutubeEgitimDemo.pdb
+C:\java2022\3.hafta\odev1\YoutubeEgitimDemo\YoutubeEgitimDemo\obj\Debug\YoutubeEgitimDemo.csprojAssemblyReference.cache
+C:\java2022\3.hafta\odev1\YoutubeEgitimDemo\YoutubeEgitimDemo\obj\Debug\YoutubeEgitimDemo.csproj.CoreCompileInputs.cache
+C:\java2022\3.hafta\odev1\YoutubeEgitimDemo\YoutubeEgitimDemo\obj\Debug\YoutubeEgitimDemo.exe
+C:\java2022\3.hafta\odev1\YoutubeEgitimDemo\YoutubeEgitimDemo\obj\Debug\YoutubeEgitimDemo.pdb

@@ -1,0 +1,78 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace YoutubeEgitimDemo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+
+
+            Console.ReadLine();
+
+        }
+    }
+    
+    class CreditManager
+    {
+        public void Calculate()
+        {
+            Console.WriteLine("Hesaplandı");
+        }
+
+        public void Save()
+        {
+            Console.WriteLine("Kredi verildi");
+        } // Class ların temel mantığı içerisinde operasyonları(method-fonksiyon) tutan bir ortamdır diyebiliriz.
+    }
+
+
+    class Customer
+    {
+        public Customer()
+        {
+            Console.WriteLine("Müşteri nesnesi başlatıldı"); //Constructor yapıcı method olarak bilinir.
+        }
+        public int Id { get; set; }
+        // Property yapısı C# da.Hem yazılabilir hem okunabilir.
+        public string City { get; set; }
+    }
+    
+    class Person : Customer
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string NationalIdentity { get; set; }
+        
+    }
+    class Company : Customer
+    {
+        public string CompanyName { get; set; }
+        public string TaxNumber { get; set; }
+    }
+
+    // Katmanlı mimariler için temel altyapı mantığıdır.
+    class CustomerManager
+    {
+        private Customer _customer;
+        public CustomerManager(Customer customer)
+        {
+            _customer = customer;
+        }
+       
+        public void Save()
+        {
+            Console.WriteLine("Müşteri kaydedildi : " + _customer.City);
+        }
+        public void Delete()
+        {
+            Console.WriteLine("Müşteri silindi : " + _customer.City);
+        }
+        
+    }
+}

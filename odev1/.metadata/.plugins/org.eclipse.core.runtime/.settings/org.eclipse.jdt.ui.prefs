@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="javaApp.CreditManager"><rhs name\="javaApp.CreditManager"/></lhs><lhs name\="javaApp.CustomerManager"><rhs name\="javaApp.CustomerManager"/></lhs><lhs name\="javaApp.Customer"><rhs name\="javaApp.Customer$Company"/><rhs name\="javaApp.Person"/><rhs name\="javaApp.Company"/><rhs name\="javaApp.Customer"/></lhs><lhs name\="javaApp.Customer$Company"><rhs name\="javaApp.Customer$Company"/></lhs><lhs name\="javaApp.Company"><rhs name\="javaApp.Company"/></lhs><lhs name\="javaApp.Person"><rhs name\="javaApp.Person"/></lhs><lhs name\="javaApp.ICreditManager"><rhs name\="javaApp.MilitaryCreditManager"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

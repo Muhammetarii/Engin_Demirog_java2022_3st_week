@@ -1,0 +1,8 @@
+package javaApp;
+
+public class MilitaryCreditManager implements ICreditManager{
+
+	void calculate();
+	void save();
+
+}

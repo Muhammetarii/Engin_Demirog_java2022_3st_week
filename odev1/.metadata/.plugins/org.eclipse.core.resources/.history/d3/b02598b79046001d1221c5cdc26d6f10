@@ -1,0 +1,19 @@
+package javaApp;
+
+public class TeacherCreditManager extends BaseCreditManager, ICreditManager {
+
+	@Override
+	public void calculate() {
+		System.out.println("Öğretmen Kredisi Hesaplandı");
+		
+		
+	}
+
+	@Override
+	public void save() {
+		System.out.println("Kaydedildi");
+		
+		
+	}
+
+}

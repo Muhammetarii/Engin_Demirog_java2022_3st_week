@@ -1,0 +1,31 @@
+package javaApp;
+
+
+public class CustomerManager {
+	
+	private ICreditManager _creditManager;
+	
+	public CustomerManager(Customer customer,ICreditManager creditManager) {
+		_creditManager = creditManager;
+		}
+		
+	public void save() {
+		
+		System.out.println("Müşteri kaydedildi : ");
+		
+	}
+	
+	public void delete() {
+		
+		System.out.println("Müşteri silindi : ");
+		
+	}
+	
+	public void giveCredit() {
+		
+		
+	}
+	
+	
+
+}
